@@ -1,0 +1,18 @@
+
+* Years
+2015. [@2015] Common Lisp
+2016. Haskell
+2017. Odin
+2018. C
+2019. Zig
+2020. Java
+2021. Lua
+2022. C++
+2023. Python
+2024. Nim
+2025. Rust
+2026. Javascript
+2027. Ruby
+2028. Swift
+2029. Kotlin
+2030. Bash/ZSH
