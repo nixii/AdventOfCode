@@ -1,4 +1,9 @@
 
+# ignore all executables
+*
+!*.*
+!*/
+
 # Emacs ignores
 *~
 \#*\#
