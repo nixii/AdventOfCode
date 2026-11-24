@@ -24,6 +24,7 @@ for match in matches:
       .split(",")
       .mapIt(it.parseInt)
       .foldl(a * b)
+  # else ignore it
 
 echo result
     
